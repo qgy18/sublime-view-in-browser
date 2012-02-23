@@ -1,0 +1,6 @@
+{
+	// map the path to url for view a file like php.
+	"path_to_url" : {
+		"/Users/jerry/Sites/test/" : "http://test/"
+	}
+}
